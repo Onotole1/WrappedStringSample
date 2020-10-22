@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WrappedStringSample</string>
+    <string name="sample_text">English text</string>
+</resources>
